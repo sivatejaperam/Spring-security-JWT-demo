@@ -1,4 +1,4 @@
-package com.speram.nshopper.filters;
+package com.speram.demo.filters;
 
 import com.auth0.jwt.JWT;
 import com.auth0.jwt.JWTVerifier;

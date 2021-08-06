@@ -1,8 +1,8 @@
-package com.speram.nshopper.controllers;
+package com.speram.demo.controllers;
 
-import com.speram.nshopper.modal.RoleUserForm;
-import com.speram.nshopper.modal.AppUser;
-import com.speram.nshopper.services.UserService;
+import com.speram.demo.modal.AppUser;
+import com.speram.demo.modal.RoleUserForm;
+import com.speram.demo.services.UserService;
 import lombok.AllArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

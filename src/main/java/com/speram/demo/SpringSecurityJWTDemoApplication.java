@@ -1,13 +1,13 @@
-package com.speram.nshopper;
+package com.speram.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class NshopperApplication {
+public class SpringSecurityJWTDemoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(NshopperApplication.class, args);
+		SpringApplication.run(SpringSecurityJWTDemoApplication.class, args);
 	}
 
 	/*@Bean

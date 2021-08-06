@@ -1,14 +1,14 @@
-package com.speram.nshopper.services;
+package com.speram.demo.services;
 
 import com.auth0.jwt.JWT;
 import com.auth0.jwt.JWTVerifier;
 import com.auth0.jwt.algorithms.Algorithm;
 import com.auth0.jwt.interfaces.DecodedJWT;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.speram.nshopper.dao.RoleRepository;
-import com.speram.nshopper.dao.UserRepository;
-import com.speram.nshopper.modal.AppUser;
-import com.speram.nshopper.modal.Role;
+import com.speram.demo.modal.AppUser;
+import com.speram.demo.modal.Role;
+import com.speram.demo.dao.RoleRepository;
+import com.speram.demo.dao.UserRepository;
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpStatus;

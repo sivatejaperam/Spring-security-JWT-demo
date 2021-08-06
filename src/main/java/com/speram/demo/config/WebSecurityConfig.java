@@ -1,7 +1,7 @@
-package com.speram.nshopper.config;
+package com.speram.demo.config;
 
-import com.speram.nshopper.filters.CustomAuthorizationFilter;
-import com.speram.nshopper.filters.CustomUsernamePasswordAuthenticationFilter;
+import com.speram.demo.filters.CustomAuthorizationFilter;
+import com.speram.demo.filters.CustomUsernamePasswordAuthenticationFilter;
 import lombok.AllArgsConstructor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

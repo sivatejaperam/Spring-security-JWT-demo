@@ -1,10 +1,10 @@
-package com.speram.nshopper;
+package com.speram.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class NshopperApplicationTests {
+class SpringSecurityJWTDemoApplicationTests {
 
 	@Test
 	void contextLoads() {

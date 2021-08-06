@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.speram</groupId>
-	<artifactId>nshopper</artifactId>
+	<artifactId>spring-secuirty-jwt-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>nshopper</name>
 	<description>Demo project for Spring Boot</description>

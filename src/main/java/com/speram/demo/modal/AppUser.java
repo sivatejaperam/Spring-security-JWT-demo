@@ -1,4 +1,4 @@
-package com.speram.nshopper.modal;
+package com.speram.demo.modal;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

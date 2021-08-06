@@ -1,7 +1,7 @@
-package com.speram.nshopper.config;
+package com.speram.demo.config;
 
-import com.speram.nshopper.modal.AppUser;
-import com.speram.nshopper.services.UserService;
+import com.speram.demo.modal.AppUser;
+import com.speram.demo.services.UserService;
 import lombok.AllArgsConstructor;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.User;

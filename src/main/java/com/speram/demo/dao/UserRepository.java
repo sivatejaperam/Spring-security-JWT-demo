@@ -1,6 +1,6 @@
-package com.speram.nshopper.dao;
+package com.speram.demo.dao;
 
-import com.speram.nshopper.modal.AppUser;
+import com.speram.demo.modal.AppUser;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface UserRepository extends JpaRepository<AppUser, Long> {

@@ -1,6 +1,6 @@
-package com.speram.nshopper.dao;
+package com.speram.demo.dao;
 
-import com.speram.nshopper.modal.Role;
+import com.speram.demo.modal.Role;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface RoleRepository extends JpaRepository<Role, Long> {
